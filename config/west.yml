@@ -4,8 +4,8 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: caksoylar
       url-base: https://github.com/caksoylar
-    - name: carrefinho                            # <--- add this
-      url-base: https://github.com/carrefinho     # <--- and this
+    - name: Eloy98                         # <--- add this
+      url-base: https://github.com/Eloy98     # <--- and this
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -15,11 +15,8 @@ manifest:
       remote: caksoylar
       revision: main
     - name: prospector-zmk-module                 # <--- and these
-      remote: carrefinho                          # <---
+      remote: Eloy98                          # <---
       revision: main    
-    - name: forager-zmk-module                    # <---
-      remote: carrefinho                          # <---
-      revision: main                              # <---  
   self:
     path: config
  
