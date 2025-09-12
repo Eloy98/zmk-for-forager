@@ -1,4 +1,3 @@
-# My ZMK forager config
+# zmk-for-forager
 
-based on:
-- https://github.com/Keycapsss/zmk-config/tree/main
+
